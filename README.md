@@ -1,6 +1,6 @@
  Hi, I'm @Epiphane-semassa
 - 👀 I am interested in computer science and robotics.
-- 🌱 I am Software Engineer. I have a high level in Spring boot and Angular.
+- 🌱 I am Software Developer. I have a high level in Spring boot and Angular.
 - 💞️ I'm looking to collaborate on any type of projects to take on challenges.
 - 📫 How to reach me: +2229 52 53 53 05 / +229 41 50 79 10, semassaepiphane@gmail.com, LinkedIn & twitter: @epiphanesemassa, Discord: @dexaag
 - My Portfolio: <a href="https://epiphane-semassa.netlify.app" target="blank">https://epiphane-semassa.netlify.app</a>
